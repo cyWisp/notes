@@ -1,4 +1,0 @@
-# Nmap 7.80 scan initiated Thu Feb 13 05:08:00 2020 as: nmap -sC -sV -oA curious 10.0.0.154
-Host: 10.0.0.154 ()	Status: Up
-Host: 10.0.0.154 ()	Ports: 80/open/tcp//http//HP OfficeJet 3830 series printer http config (Serial CN6542J0D40664)/, 443/open/tcp//ssl|http//HP OfficeJet 3830 series printer http config (Serial CN6542J0D40664)/, 631/open/tcp//http//HP OfficeJet 3830 series printer http config (Serial CN6542J0D40664)/, 8080/open/tcp//http//HP OfficeJet 3830 series printer http config (Serial CN6542J0D40664)/, 9100/open/tcp//jetdirect?///, 9220/open/tcp//hp-gsg//HP Generic Scan Gateway 1.0/	Ignored State: closed (994)
-# Nmap done at Thu Feb 13 05:09:41 2020 -- 1 IP address (1 host up) scanned in 100.69 seconds
